@@ -5,6 +5,7 @@
     - consider big/small companies and stuff
 - Sentiment analysis of RSS feed of finance news.
 - Known probability models of the market in economics.
+- we could probably use PyTorch LSTMs 
 
 
 ### Links
